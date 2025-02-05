@@ -1,2 +1,2 @@
 # Zentra
-This is the first project
+This is the first project.
